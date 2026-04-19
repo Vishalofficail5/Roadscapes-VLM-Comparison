@@ -1,9 +1,0 @@
-model,light,accuracy_percent
-LLaVA,day,47.33
-LLaVA,night,38.33
-PaliGemma,day,47.0
-PaliGemma,night,33.0
-Phi-3,day,51.33
-Phi-3,night,40.33
-Qwen2-VL,day,56.0
-Qwen2-VL,night,42.67
