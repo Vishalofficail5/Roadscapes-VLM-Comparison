@@ -1,0 +1,5 @@
+model,accuracy_percent
+Qwen2-VL,49.33
+Phi-3,45.83
+LLaVA,42.83
+PaliGemma,40.0
