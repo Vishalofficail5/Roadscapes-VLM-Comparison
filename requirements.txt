@@ -1,0 +1,9 @@
+transformers==4.45.2
+accelerate
+sentencepiece
+pandas
+numpy
+matplotlib
+pillow
+tqdm
+huggingface_hub
