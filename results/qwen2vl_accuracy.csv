@@ -1,0 +1,7 @@
+category,light,is_correct,accuracy_percent
+Object Counting,day,0.71,71.0
+Object Counting,night,0.7,70.0
+Object Description,day,0.2,20.0
+Object Description,night,0.16,16.0
+Surrounding Description,day,0.77,77.0
+Surrounding Description,night,0.42,42.0

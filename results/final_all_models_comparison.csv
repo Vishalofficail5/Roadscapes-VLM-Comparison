@@ -1,0 +1,25 @@
+model,category,light,accuracy_percent
+Phi-3,Object Counting,day,65.0
+Phi-3,Object Counting,night,71.0
+Phi-3,Object Description,day,13.0
+Phi-3,Object Description,night,13.0
+Phi-3,Surrounding Description,day,76.0
+Phi-3,Surrounding Description,night,37.0
+Qwen2-VL,Object Counting,day,71.0
+Qwen2-VL,Object Counting,night,70.0
+Qwen2-VL,Object Description,day,20.0
+Qwen2-VL,Object Description,night,16.0
+Qwen2-VL,Surrounding Description,day,77.0
+Qwen2-VL,Surrounding Description,night,42.0
+LLaVA,Object Counting,day,67.0
+LLaVA,Object Counting,night,74.0
+LLaVA,Object Description,day,19.0
+LLaVA,Object Description,night,17.0
+LLaVA,Surrounding Description,day,56.0
+LLaVA,Surrounding Description,night,24.0
+PaliGemma,Object Counting,day,74.0
+PaliGemma,Object Counting,night,74.0
+PaliGemma,Object Description,day,11.0
+PaliGemma,Object Description,night,9.0
+PaliGemma,Surrounding Description,day,56.0
+PaliGemma,Surrounding Description,night,16.0

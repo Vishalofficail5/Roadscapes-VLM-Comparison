@@ -1,0 +1,601 @@
+model,category,light,filename,question,ground_truth,prediction,is_correct
+paligemma,Object Counting,day,Sequence_Day_18_frame_1890.jpg,How many objects of type car are in the image?,5,2,False
+paligemma,Object Counting,day,Sequence_Day_14_frame_540.jpg,How many objects of type car are in the image?,2,1,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_5190.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_2490.jpg,Are there more car's than motorcycle's?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_8_frame_30.jpg,How many objects of type truck are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_1590.jpg,Is there a rickshaw present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_7020.jpg,Is there a truck present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_1080.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_8_frame_510.jpg,How many objects of type motorcycle are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_17_frame_750.jpg,How many objects of type motorcycle are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_2880.jpg,Is there a truck present in the image?,Yes,no,False
+paligemma,Object Counting,day,Sequence_Day_14_frame_5730.jpg,Are there more traffic light's than car's?,Yes,no,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_10530.jpg,How many objects of type person are in the image?,1,2,False
+paligemma,Object Counting,day,Sequence_Day_17_frame_3390.jpg,How many objects of type person are in the image?,6,2,False
+paligemma,Object Counting,day,Sequence_Day_17_frame_1950.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_14_frame_150.jpg,Are there more car's than truck's?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_960.jpg,How many objects of type person are in the image?,5,1,False
+paligemma,Object Counting,day,Sequence_Day_9_frame_2280.jpg,Are there more car's than rickshaw's?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_9480.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_14_frame_4020.jpg,Are there more motorcycle's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_3210.jpg,How many objects of type bus are in the image?,1,0,False
+paligemma,Object Counting,day,Sequence_Day_9_frame_6360.jpg,Are there more motorcycle's than motorcycle's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_7980.jpg,Are there more truck's than rickshaw's?,Yes,no,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_3000.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_660.jpg,Is there a truck present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_10560.jpg,How many objects of type car are in the image?,3,3,True
+paligemma,Object Counting,day,Sequence_Day_14_frame_1770.jpg,How many objects of type car are in the image?,2,2,True
+paligemma,Object Counting,day,Sequence_Day_17_frame_1530.jpg,How many objects of type car are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_150.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_17_frame_2010.jpg,How many objects of type bus are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_12_frame_600.jpg,Is there a rider present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_11_frame_1320.jpg,Are there more rickshaw's than rider's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_1950.jpg,How many objects of type car are in the image?,3,2,False
+paligemma,Object Counting,day,Sequence_Day_14_frame_3750.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_8_frame_630.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_12_frame_510.jpg,Is there a motorcycle present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_2790.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_8_frame_2190.jpg,Are there more car's than truck's?,No,yes,False
+paligemma,Object Counting,day,Sequence_Day_12_frame_480.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_7920.jpg,Is there a rickshaw present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_14_frame_5010.jpg,Are there more person's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_14_frame_3570.jpg,How many objects of type motorcycle are in the image?,2,2,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_14430.jpg,Are there more motorcycle's than motorcycle's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_14_frame_1020.jpg,Are there more car's than truck's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_3660.jpg,How many objects of type truck are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_5430.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_240.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_8430.jpg,Is there a motorcycle present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_8820.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_11730.jpg,Is there a bus present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_12_frame_2610.jpg,Is there a traffic sign present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_3240.jpg,How many objects of type person are in the image?,2,2,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_4290.jpg,How many objects of type traffic sign are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_9720.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_12_frame_750.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_8550.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_4020.jpg,Are there more car's than motorcycle's?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_7260.jpg,How many objects of type car are in the image?,1,2,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_960.jpg,How many objects of type person are in the image?,4,1,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_12450.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_60.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_17_frame_1170.jpg,Is there a person present in the image?,Yes,no,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_6000.jpg,How many objects of type car are in the image?,3,2,False
+paligemma,Object Counting,day,Sequence_Day_13_frame_5160.jpg,Is there a truck present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_17_frame_2610.jpg,Is there a rider present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_4650.jpg,Is there a rider present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_480.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_11340.jpg,Are there more car's than motorcycle's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_6390.jpg,Are there more truck's than motorcycle's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_8340.jpg,Is there a traffic light present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_3630.jpg,How many objects of type motorcycle are in the image?,2,1,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_3270.jpg,Are there more person's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_8_frame_810.jpg,Is there a motorcycle present in the image?,Yes,no,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_4710.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_12_frame_870.jpg,How many objects of type car are in the image?,7,4,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_10110.jpg,How many objects of type car are in the image?,2,1,False
+paligemma,Object Counting,day,Sequence_Day_17_frame_3540.jpg,Are there more rider's than rider's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_2640.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_8640.jpg,Are there more bus's than rickshaw's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_5460.jpg,How many objects of type car are in the image?,3,2,False
+paligemma,Object Counting,day,Sequence_Day_11_frame_300.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_14_frame_3870.jpg,How many objects of type car are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_8880.jpg,Are there more rider's than car's?,No,yes,False
+paligemma,Object Counting,day,Sequence_Day_14_frame_4770.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_8640.jpg,Are there more traffic light's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_6300.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_14_frame_4860.jpg,Is there a truck present in the image?,Yes,no,False
+paligemma,Object Counting,day,Sequence_Day_12_frame_0.jpg,Are there more person's than motorcycle's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_210.jpg,Is there a motorcycle present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_13_frame_4080.jpg,How many objects of type motorcycle are in the image?,3,0,False
+paligemma,Object Counting,day,Sequence_Day_17_frame_3600.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_9240.jpg,How many objects of type rickshaw are in the image?,3,1,False
+paligemma,Object Counting,day,Sequence_Day_18_frame_8820.jpg,How many objects of type person are in the image?,2,2,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_1650.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_18_frame_10680.jpg,How many objects of type motorcycle are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_3810.jpg,How many objects of type rickshaw are in the image?,1,1,True
+paligemma,Object Counting,day,Sequence_Day_11_frame_3450.jpg,How many objects of type car are in the image?,6,3,False
+paligemma,Object Counting,day,Sequence_Day_12_frame_1620.jpg,Are there more traffic light's than car's?,No,no,True
+paligemma,Object Counting,day,Sequence_Day_8_frame_990.jpg,Is there a motorcycle present in the image?,Yes,yes,True
+paligemma,Object Counting,day,Sequence_Day_9_frame_3090.jpg,How many objects of type car are in the image?,10,3,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_3780.jpg,Is there a headlight present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_2400.jpg,Are there more headlight's than motorcycle's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_3120.jpg,Are there more traffic light's than traffic light's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_3660.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_5130.jpg,How many objects of type car are in the image?,2,2,True
+paligemma,Object Counting,night,Sequence_Night_13_frame_1020.jpg,How many objects of type person are in the image?,1,1,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_3180.jpg,Are there more motorcycle's than person's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_4350.jpg,Is there a person present in the image?,Yes,no,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_5100.jpg,Is there a motorcycle present in the image?,Yes,no,False
+paligemma,Object Counting,night,Sequence_Night_16_frame_1740.jpg,Are there more headlight's than traffic sign's?,No,yes,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_5100.jpg,Are there more motorcycle's than car's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_8670.jpg,Is there a bus present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_4650.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_1170.jpg,How many objects of type person are in the image?,1,1,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_5040.jpg,Are there more person's than bus's?,Yes,no,False
+paligemma,Object Counting,night,Sequence_Night_16_frame_2460.jpg,Are there more traffic sign's than traffic sign's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_5100.jpg,Are there more person's than person's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_4290.jpg,Are there more bus's than headlight's?,Yes,no,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_2430.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_4350.jpg,Are there more person's than person's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_2190.jpg,Is there a headlight present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_840.jpg,Are there more person's than person's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_10020.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_5280.jpg,How many objects of type motorcycle are in the image?,1,0,False
+paligemma,Object Counting,night,Sequence_Night_16_frame_4980.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_8310.jpg,How many objects of type car are in the image?,3,2,False
+paligemma,Object Counting,night,Sequence_Night_12_frame_3240.jpg,Is there a rickshaw present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_6990.jpg,Is there a motorcycle present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_2430.jpg,Is there a motorcycle present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_12090.jpg,Are there more person's than car's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_1680.jpg,Are there more rider's than person's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_0.jpg,How many objects of type animal are in the image?,1,0,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_6990.jpg,Are there more motorcycle's than motorcycle's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_1350.jpg,How many objects of type car are in the image?,2,1,False
+paligemma,Object Counting,night,Sequence_Night_12_frame_9780.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_3510.jpg,Are there more motorcycle's than motorcycle's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_2190.jpg,Are there more headlight's than headlight's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_3810.jpg,Are there more motorcycle's than rider's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_6330.jpg,How many objects of type motorcycle are in the image?,5,2,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_5160.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_1320.jpg,Are there more car's than motorcycle's?,Yes,no,False
+paligemma,Object Counting,night,Sequence_Night_16_frame_5130.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_3930.jpg,How many objects of type motorcycle are in the image?,1,0,False
+paligemma,Object Counting,night,Sequence_Night_12_frame_11760.jpg,Is there a motorcycle present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_5220.jpg,How many objects of type car are in the image?,1,1,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_4080.jpg,Are there more motorcycle's than motorcycle's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_10800.jpg,How many objects of type car are in the image?,3,2,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_2100.jpg,Are there more traffic sign's than traffic sign's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_3990.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_2130.jpg,Is there a rickshaw present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_2010.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_5160.jpg,How many objects of type car are in the image?,2,2,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_9210.jpg,How many objects of type rickshaw are in the image?,1,1,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_60.jpg,Is there a car present in the image?,Yes,no,False
+paligemma,Object Counting,night,Sequence_Night_17_frame_1350.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_5130.jpg,How many objects of type bus are in the image?,1,1,True
+paligemma,Object Counting,night,Sequence_Night_13_frame_1230.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_9810.jpg,Are there more car's than bus's?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_4410.jpg,Are there more car's than bus's?,No,yes,False
+paligemma,Object Counting,night,Sequence_Night_17_frame_3480.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_9570.jpg,Is there a rider present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_4140.jpg,Are there more motorcycle's than rider's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_6480.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_1800.jpg,How many objects of type truck are in the image?,1,1,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_9210.jpg,Is there a rickshaw present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_2880.jpg,Is there a motorcycle present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_4110.jpg,Is there a bus present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_5040.jpg,How many objects of type person are in the image?,2,1,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_6840.jpg,Are there more person's than motorcycle's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_2250.jpg,How many objects of type person are in the image?,1,1,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_4860.jpg,How many objects of type person are in the image?,2,0,False
+paligemma,Object Counting,night,Sequence_Night_16_frame_5100.jpg,Is there a person present in the image?,Yes,no,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_5220.jpg,Are there more person's than person's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_9780.jpg,How many objects of type car are in the image?,2,2,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_4050.jpg,Are there more person's than motorcycle's?,No,yes,False
+paligemma,Object Counting,night,Sequence_Night_8_frame_2340.jpg,Is there a car present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_8130.jpg,How many objects of type bus are in the image?,1,1,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_9720.jpg,How many objects of type motorcycle are in the image?,1,0,False
+paligemma,Object Counting,night,Sequence_Night_16_frame_90.jpg,How many objects of type person are in the image?,4,1,False
+paligemma,Object Counting,night,Sequence_Night_17_frame_2100.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_810.jpg,Are there more person's than headlight's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_11760.jpg,Are there more motorcycle's than rider's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_6900.jpg,How many objects of type person are in the image?,3,2,False
+paligemma,Object Counting,night,Sequence_Night_12_frame_9780.jpg,Are there more car's than bus's?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_3810.jpg,Is there a truck present in the image?,Yes,no,False
+paligemma,Object Counting,night,Sequence_Night_17_frame_5400.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_9720.jpg,Is there a motorcycle present in the image?,Yes,no,False
+paligemma,Object Counting,night,Sequence_Night_17_frame_5760.jpg,How many objects of type person are in the image?,2,1,False
+paligemma,Object Counting,night,Sequence_Night_13_frame_1380.jpg,Are there more bus's than bus's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_2100.jpg,Are there more person's than motorcycle's?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_3180.jpg,Are there more traffic sign's than traffic sign's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_4650.jpg,Is there a person present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_4740.jpg,Is there a bus present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_1560.jpg,How many objects of type car are in the image?,2,2,True
+paligemma,Object Counting,night,Sequence_Night_13_frame_1290.jpg,Are there more car's than car's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_17_frame_1530.jpg,How many objects of type car are in the image?,2,2,True
+paligemma,Object Counting,night,Sequence_Night_16_frame_3180.jpg,How many objects of type traffic sign are in the image?,3,2,False
+paligemma,Object Counting,night,Sequence_Night_16_frame_1860.jpg,Are there more headlight's than headlight's?,No,no,True
+paligemma,Object Counting,night,Sequence_Night_8_frame_1680.jpg,Is there a rider present in the image?,Yes,yes,True
+paligemma,Object Counting,night,Sequence_Night_12_frame_11760.jpg,How many objects of type motorcycle are in the image?,1,1,True
+paligemma,Object Description,day,Sequence_Day_18_frame_11310.jpg,What is the color of the car in the image?,darkslategray,what is the color of the car in the image? the car in the image is white,False
+paligemma,Object Description,day,Sequence_Day_18_frame_4830.jpg,"What class is the object at bounding box [804.7042236328125, 330.36358642578125, 931.3006591796875, 465.2973022460938]?",rickshaw,what class is the object at bounding box [8047042236328125 33036358642578125 9313006591796875 4652973022460938]? car,False
+paligemma,Object Description,day,Sequence_Day_18_frame_8940.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_13_frame_6120.jpg,"What class is the object at bounding box [792.346923828125, 333.5953674316406, 821.0877685546875, 357.1199645996094]?",car,what class is the object at bounding box [792346923828125 3335953674316406 8210877685546875 3571199645996094]? road,False
+paligemma,Object Description,day,Sequence_Day_18_frame_180.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? the car in the image is black,False
+paligemma,Object Description,day,Sequence_Day_13_frame_7650.jpg,What is the color of the car in the image?,darkslategray,what is the color of the car in the image? the car in the image is grey,False
+paligemma,Object Description,day,Sequence_Day_9_frame_3330.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? blue,False
+paligemma,Object Description,day,Sequence_Day_18_frame_13980.jpg,"What class is the object at bounding box [437.6069641113281, 446.41088867187494, 510.0578308105469, 540.1865234375]?",motorcycle,what class is the object at bounding box [4376069641113281 44641088867187494 5100578308105469 5401865234375]? road,False
+paligemma,Object Description,day,Sequence_Day_18_frame_10800.jpg,"What class is the object at bounding box [562.1480712890625, 373.0316772460937, 617.9842529296875, 430.19891357421875]?",car,what class is the object at bounding box [5621480712890625 3730316772460937 6179842529296875 43019891357421875]? car,True
+paligemma,Object Description,day,Sequence_Day_17_frame_660.jpg,"What class is the object at bounding box [712.7094116210938, 444.9732513427734, 732.0905151367188, 491.09352111816406]?",person,what class is the object at bounding box [7127094116210938 4449732513427734 7320905151367188 49109352111816406]? land vehicle,False
+paligemma,Object Description,day,Sequence_Day_18_frame_12330.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? the car in the image is grey,False
+paligemma,Object Description,day,Sequence_Day_14_frame_1680.jpg,"What class is the object at bounding box [561.4285714285714, 349.61038961038963, 680.9090909090909, 450.90909090909093]?",car,what class is the object at bounding box [5614285714285714 34961038961038963 6809090909090909 45090909090909093]? truck,False
+paligemma,Object Description,day,Sequence_Day_18_frame_12000.jpg,"What class is the object at bounding box [745.0720825195312, 380.75958251953125, 853.3212280273438, 494.577880859375]?",rickshaw,what class is the object at bounding box [7450720825195312 38075958251953125 8533212280273438 494577880859375]? class a,False
+paligemma,Object Description,day,Sequence_Day_9_frame_5490.jpg,What is the color of the truck in the image?,dimgray,what is the color of the truck in the image? yellow,False
+paligemma,Object Description,day,Sequence_Day_13_frame_4740.jpg,"What class is the object at bounding box [680.3846153846154, 263.46153846153845, 719.6153846153845, 317.3076923076923]?",truck,what class is the object at bounding box [6803846153846154 26346153846153845 7196153846153845 3173076923076923]? car,False
+paligemma,Object Description,day,Sequence_Day_18_frame_3270.jpg,"What class is the object at bounding box [942.8351745605469, 413.57812500000006, 1273.2392883300781, 655.82861328125]?",motorcycle,what class is the object at bounding box [9428351745605469 41357812500000006 12732392883300781 65582861328125]? car,False
+paligemma,Object Description,day,Sequence_Day_9_frame_1200.jpg,"What class is the object at bounding box [752.015503875969, 270.8527131782946, 829.5348837209302, 365.4263565891473]?",bus,what class is the object at bounding box [752015503875969 2708527131782946 8295348837209302 3654263565891473]? van,False
+paligemma,Object Description,day,Sequence_Day_18_frame_2520.jpg,"What class is the object at bounding box [510.24656677246094, 288.5902099609375, 753.0633697509766, 495.15472412109375]?",car,what class is the object at bounding box [51024656677246094 2885902099609375 7530633697509766 49515472412109375]? car,True
+paligemma,Object Description,day,Sequence_Day_18_frame_10350.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? the car in the image is silver,False
+paligemma,Object Description,day,Sequence_Day_11_frame_3180.jpg,What is the color of the car in the image?,saddlebrown,what is the color of the car in the image? red,False
+paligemma,Object Description,day,Sequence_Day_14_frame_4920.jpg,"What class is the object at bounding box [1.4285714285715094, 345.3571428571429, 490.00000000000006, 614.6428571428571]?",car,what class is the object at bounding box [14285714285715094 3453571428571429 49000000000000006 6146428571428571]? truck,False
+paligemma,Object Description,day,Sequence_Day_11_frame_2970.jpg,What is the color of the person in the image?,gray,what is the color of the person in the image? the person in the image is light-skinned,False
+paligemma,Object Description,day,Sequence_Day_9_frame_3360.jpg,What is the color of the car in the image?,darkgray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_17_frame_3900.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_15_frame_300.jpg,What is the color of the traffic light in the image?,dimgray,what is the color of the traffic light in the image? green,False
+paligemma,Object Description,day,Sequence_Day_8_frame_1320.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? white,False
+paligemma,Object Description,day,Sequence_Day_18_frame_14040.jpg,What is the color of the rider in the image?,darkslategray,what is the color of the rider in the image? red,False
+paligemma,Object Description,day,Sequence_Day_18_frame_10050.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_17_frame_4230.jpg,What is the color of the rider in the image?,dimgray,what is the color of the rider in the image? black,False
+paligemma,Object Description,day,Sequence_Day_14_frame_120.jpg,What is the color of the truck in the image?,darkolivegreen,what is the color of the truck in the image? yellow and blue,False
+paligemma,Object Description,day,Sequence_Day_18_frame_8250.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_8_frame_1470.jpg,What is the color of the person in the image?,dimgray,what is the color of the person in the image? yellow,False
+paligemma,Object Description,day,Sequence_Day_13_frame_3510.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? grey,False
+paligemma,Object Description,day,Sequence_Day_9_frame_2730.jpg,What is the color of the car in the image?,slategray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_18_frame_13380.jpg,"What class is the object at bounding box [556.3673706054688, 370.08990478515625, 579.3776245117188, 407.99102783203125]?",motorcycle,what class is the object at bounding box [5563673706054688 37008990478515625 5793776245117188 40799102783203125]? class 5,False
+paligemma,Object Description,day,Sequence_Day_18_frame_2910.jpg,What is the color of the car in the image?,darkslategray,what is the color of the car in the image? dark blue,False
+paligemma,Object Description,day,Sequence_Day_14_frame_180.jpg,"What class is the object at bounding box [641.9937744140625, 188.96519470214844, 656.0452880859375, 216.45448303222656]?",traffic light,what class is the object at bounding box [6419937744140625 18896519470214844 6560452880859375 21645448303222656]? car,False
+paligemma,Object Description,day,Sequence_Day_18_frame_12570.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? the car in the image is grey,False
+paligemma,Object Description,day,Sequence_Day_17_frame_30.jpg,"What class is the object at bounding box [718.4854125976562, 398.09204101562494, 751.6691284179689, 471.6468505859375]?",rider,what class is the object at bounding box [7184854125976562 39809204101562494 7516691284179689 4716468505859375]? object at bounding box [718485,False
+paligemma,Object Description,day,Sequence_Day_11_frame_60.jpg,"What class is the object at bounding box [680.970703125, 377.873291015625, 813.761962890625, 472.2603759765625]?",car,what class is the object at bounding box [680970703125 377873291015625 813761962890625 4722603759765625]? car,True
+paligemma,Object Description,day,Sequence_Day_13_frame_6960.jpg,"What class is the object at bounding box [632.72705078125, 324.52856445312506, 785.8992919921875, 440.0799560546875]?",car,what class is the object at bounding box [63272705078125 32452856445312506 7858992919921875 4400799560546875]? car,True
+paligemma,Object Description,day,Sequence_Day_13_frame_7440.jpg,What is the color of the truck in the image?,gray,what is the color of the truck in the image? orange,False
+paligemma,Object Description,day,Sequence_Day_18_frame_2160.jpg,What is the color of the motorcycle in the image?,gray,what is the color of the motorcycle in the image? black,False
+paligemma,Object Description,day,Sequence_Day_15_frame_4770.jpg,"What class is the object at bounding box [781.3703613281251, 380.16851806640625, 871.4678955078125, 544.9901123046875]?",rider,what class is the object at bounding box [7813703613281251 38016851806640625 8714678955078125 5449901123046875]? vehicle,False
+paligemma,Object Description,day,Sequence_Day_13_frame_2850.jpg,What is the color of the motorcycle in the image?,darkslategray,what is the color of the motorcycle in the image? black,False
+paligemma,Object Description,day,Sequence_Day_18_frame_9600.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_18_frame_2580.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? blue,False
+paligemma,Object Description,day,Sequence_Day_8_frame_1650.jpg,What is the color of the motorcycle in the image?,darkslategray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,day,Sequence_Day_17_frame_2100.jpg,"What class is the object at bounding box [645.7692307692307, 464.2307692307692, 668.076923076923, 491.9230769230769]?",motorcycle,what class is the object at bounding box [6457692307692307 4642307692307692 668076923076923 4919230769230769]? class 5,False
+paligemma,Object Description,day,Sequence_Day_17_frame_2760.jpg,What is the color of the motorcycle in the image?,gray,what is the color of the motorcycle in the image? orange,False
+paligemma,Object Description,day,Sequence_Day_17_frame_2610.jpg,What is the color of the motorcycle in the image?,dimgray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,day,Sequence_Day_18_frame_4770.jpg,What is the color of the rickshaw in the image?,gray,what is the color of the rickshaw in the image? red,False
+paligemma,Object Description,day,Sequence_Day_18_frame_2670.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_17_frame_3570.jpg,What is the color of the traffic sign in the image?,lightslategray,what is the color of the traffic sign in the image? blue,False
+paligemma,Object Description,day,Sequence_Day_18_frame_10470.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? grey,False
+paligemma,Object Description,day,Sequence_Day_11_frame_570.jpg,What is the color of the car in the image?,brown,what is the color of the car in the image? red,False
+paligemma,Object Description,day,Sequence_Day_15_frame_1230.jpg,"What class is the object at bounding box [694.4871215820314, 358.85467529296875, 779.1018676757812, 432.7958984375]?",car,what class is the object at bounding box [6944871215820314 35885467529296875 7791018676757812 4327958984375]? car,True
+paligemma,Object Description,day,Sequence_Day_13_frame_3270.jpg,"What class is the object at bounding box [337.46697998046875, 389.4770202636718, 397.643798828125, 465.7346496582031]?",motorcycle,what class is the object at bounding box [33746697998046875 3894770202636718 397643798828125 4657346496582031]? bus,False
+paligemma,Object Description,day,Sequence_Day_13_frame_6960.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_15_frame_2670.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? white,False
+paligemma,Object Description,day,Sequence_Day_18_frame_7110.jpg,"What class is the object at bounding box [633.0613403320312, 387.1529541015625, 699.0281372070312, 449.494873046875]?",car,what class is the object at bounding box [6330613403320312 3871529541015625 6990281372070312 449494873046875]? car,True
+paligemma,Object Description,day,Sequence_Day_14_frame_2910.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? white,False
+paligemma,Object Description,day,Sequence_Day_18_frame_2850.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? dark blue,False
+paligemma,Object Description,day,Sequence_Day_17_frame_4260.jpg,"What class is the object at bounding box [494.08074951171875, 380.9356079101562, 574.4850463867188, 452.69287109375]?",car,what class is the object at bounding box [49408074951171875 3809356079101562 5744850463867188 45269287109375]? vehicle,False
+paligemma,Object Description,day,Sequence_Day_18_frame_330.jpg,"What class is the object at bounding box [60.966423034667976, 379.62414550781256, 307.77198028564453, 491.0074462890625]?",car,what class is the object at bounding box [60966423034667976 37962414550781256 30777198028564453 4910074462890625]? vehicle,False
+paligemma,Object Description,day,Sequence_Day_18_frame_14340.jpg,"What class is the object at bounding box [620.3846153846154, 392.6923076923077, 668.8461538461538, 440.3846153846154]?",car,what class is the object at bounding box [6203846153846154 3926923076923077 6688461538461538 4403846153846154]? class 5,False
+paligemma,Object Description,day,Sequence_Day_18_frame_4320.jpg,What is the color of the motorcycle in the image?,gray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,day,Sequence_Day_13_frame_2280.jpg,"What class is the object at bounding box [152.753662109375, 245.60107421874997, 170.52047729492188, 286.18798828125]?",traffic light,what class is the object at bounding box [152753662109375 24560107421874997 17052047729492188 28618798828125]? vehicle,False
+paligemma,Object Description,day,Sequence_Day_17_frame_2850.jpg,What is the color of the motorcycle in the image?,dimgray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,day,Sequence_Day_18_frame_3720.jpg,What is the color of the motorcycle in the image?,darkslategray,what is the color of the motorcycle in the image? black,False
+paligemma,Object Description,day,Sequence_Day_9_frame_2010.jpg,"What class is the object at bounding box [845.0387596899225, 309.6124031007752, 865.1937984496125, 348.37209302325584]?",car,what class is the object at bounding box [8450387596899225 3096124031007752 8651937984496125 34837209302325584]? car,True
+paligemma,Object Description,day,Sequence_Day_13_frame_3180.jpg,"What class is the object at bounding box [579.2236938476562, 343.67062377929693, 639.9259643554688, 394.26766967773443]?",car,what class is the object at bounding box [5792236938476562 34367062377929693 6399259643554688 39426766967773443]? road,False
+paligemma,Object Description,day,Sequence_Day_13_frame_6720.jpg,What is the color of the motorcycle in the image?,darkslategray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,day,Sequence_Day_18_frame_13020.jpg,"What class is the object at bounding box [753.2510375976562, 385.5702514648437, 988.0073852539061, 564.1683349609375]?",car,what class is the object at bounding box [7532510375976562 3855702514648437 9880073852539061 5641683349609375]? car,True
+paligemma,Object Description,day,Sequence_Day_13_frame_8280.jpg,"What class is the object at bounding box [2.824928283691408, 393.94369506835943, 43.202293395996094, 466.9413146972656]?",person,what class is the object at bounding box [2824928283691408 39394369506835943 43202293395996094 4669413146972656]? vehicle,False
+paligemma,Object Description,day,Sequence_Day_14_frame_3510.jpg,What is the color of the truck in the image?,dimgray,what is the color of the truck in the image? orange,False
+paligemma,Object Description,day,Sequence_Day_18_frame_120.jpg,"What class is the object at bounding box [361.6687316894531, 358.9247131347656, 397.2918395996094, 445.0185241699218]?",person,what class is the object at bounding box [3616687316894531 3589247131347656 3972918395996094 4450185241699218]? car,False
+paligemma,Object Description,day,Sequence_Day_9_frame_4980.jpg,What is the color of the truck in the image?,gray,what is the color of the truck in the image? red,False
+paligemma,Object Description,day,Sequence_Day_13_frame_8100.jpg,What is the color of the truck in the image?,darkolivegreen,what is the color of the truck in the image? yellow,False
+paligemma,Object Description,day,Sequence_Day_18_frame_9120.jpg,What is the color of the person in the image?,dimgray,what is the color of the person in the image? black,False
+paligemma,Object Description,day,Sequence_Day_13_frame_8310.jpg,What is the color of the traffic sign in the image?,darkolivegreen,what is the color of the traffic sign in the image? red,False
+paligemma,Object Description,day,Sequence_Day_18_frame_14700.jpg,What is the color of the car in the image?,darkslategray,what is the color of the car in the image? black,False
+paligemma,Object Description,day,Sequence_Day_8_frame_720.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? white,False
+paligemma,Object Description,day,Sequence_Day_9_frame_660.jpg,What is the color of the car in the image?,lightslategray,what is the color of the car in the image? red,False
+paligemma,Object Description,day,Sequence_Day_18_frame_180.jpg,"What class is the object at bounding box [644.6568603515625, 380.7048797607422, 800.7100830078126, 494.4278106689453]?",car,what class is the object at bounding box [6446568603515625 3807048797607422 8007100830078126 4944278106689453]? car,True
+paligemma,Object Description,day,Sequence_Day_18_frame_600.jpg,"What class is the object at bounding box [259.7308349609375, 373.32794189453125, 309.6494140625, 501.28308105468744]?",person,what class is the object at bounding box [2597308349609375 37332794189453125 3096494140625 50128308105468744]? car,False
+paligemma,Object Description,day,Sequence_Day_11_frame_270.jpg,"What class is the object at bounding box [1053.5658914728683, 381.70542635658916, 1096.2015503875969, 466.9767441860465]?",person,what class is the object at bounding box [10535658914728683 38170542635658916 10962015503875969 4669767441860465]? car,False
+paligemma,Object Description,day,Sequence_Day_18_frame_12420.jpg,"What class is the object at bounding box [687.55517578125, 408.05239868164057, 713.0057373046875, 445.7334899902343]?",motorcycle,what class is the object at bounding box [68755517578125 40805239868164057 7130057373046875 4457334899902343]? unanswerable,False
+paligemma,Object Description,day,Sequence_Day_13_frame_8370.jpg,"What class is the object at bounding box [628.076923076923, 272.69230769230774, 654.2307692307692, 298.84615384615387]?",traffic light,what class is the object at bounding box [628076923076923 27269230769230774 6542307692307692 29884615384615387]? vehicle,False
+paligemma,Object Description,day,Sequence_Day_17_frame_3120.jpg,"What class is the object at bounding box [722.4794311523438, 364.0103149414063, 759.4483032226561, 446.38677978515625]?",person,what class is the object at bounding box [7224794311523438 3640103149414063 7594483032226561 44638677978515625]? vehicle,False
+paligemma,Object Description,day,Sequence_Day_18_frame_7200.jpg,"What class is the object at bounding box [790.9500122070312, 394.0466003417969, 893.3771362304688, 475.8945007324219]?",car,what class is the object at bounding box [7909500122070312 3940466003417969 8933771362304688 4758945007324219]? car,True
+paligemma,Object Description,day,Sequence_Day_14_frame_5220.jpg,What is the color of the motorcycle in the image?,darkslategray,what is the color of the motorcycle in the image? black,False
+paligemma,Object Description,day,Sequence_Day_13_frame_7020.jpg,What is the color of the truck in the image?,gray,what is the color of the truck in the image? orange,False
+paligemma,Object Description,day,Sequence_Day_9_frame_2100.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? white,False
+paligemma,Object Description,day,Sequence_Day_18_frame_7080.jpg,"What class is the object at bounding box [715.3516845703125, 376.906982421875, 841.415283203125, 469.7211303710937]?",car,what class is the object at bounding box [7153516845703125 376906982421875 841415283203125 4697211303710937]? car,True
+paligemma,Object Description,day,Sequence_Day_13_frame_2340.jpg,What is the color of the rider in the image?,darkslategray,what is the color of the rider in the image? red,False
+paligemma,Object Description,day,Sequence_Day_13_frame_5610.jpg,What is the color of the motorcycle in the image?,darkolivegreen,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,day,Sequence_Day_18_frame_12900.jpg,What is the color of the motorcycle in the image?,dimgray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,day,Sequence_Day_18_frame_11040.jpg,"What class is the object at bounding box [654.869873046875, 375.48638916015625, 713.5301513671875, 420.03863525390625]?",car,what class is the object at bounding box [654869873046875 37548638916015625 7135301513671875 42003863525390625]? unanswerable,False
+paligemma,Object Description,day,Sequence_Day_18_frame_7380.jpg,"What class is the object at bounding box [411.9230769230769, 384.2307692307692, 456.9173889160156, 453.0338439941406]?",rickshaw,what class is the object at bounding box [4119230769230769 3842307692307692 4569173889160156 4530338439941406]? car,False
+paligemma,Object Description,night,Sequence_Night_16_frame_1080.jpg,What is the color of the motorcycle in the image?,lightgray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4920.jpg,What is the color of the motorcycle in the image?,gray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4290.jpg,What is the color of the person in the image?,dimgray,what is the color of the person in the image? white,False
+paligemma,Object Description,night,Sequence_Night_12_frame_9780.jpg,"What class is the object at bounding box [229.61113739013672, 390.423095703125, 429.27344512939453, 529.872314453125]?",car,what class is the object at bounding box [22961113739013672 390423095703125 42927344512939453 529872314453125]? car,True
+paligemma,Object Description,night,Sequence_Night_8_frame_6930.jpg,"What class is the object at bounding box [587.552734375, 379.99327087402344, 793.3289794921875, 675.7256011962891]?",motorcycle,what class is the object at bounding box [587552734375 37999327087402344 7933289794921875 6757256011962891]? motorcycle,True
+paligemma,Object Description,night,Sequence_Night_17_frame_3300.jpg,"What class is the object at bounding box [736.4818725585939, 382.4595642089843, 761.4671020507812, 460.5118103027344]?",person,what class is the object at bounding box [7364818725585939 3824595642089843 7614671020507812 4605118103027344]? motorcycle,False
+paligemma,Object Description,night,Sequence_Night_12_frame_8310.jpg,What is the color of the bus in the image?,silver,what is the color of the bus in the image? red,False
+paligemma,Object Description,night,Sequence_Night_17_frame_3990.jpg,"What class is the object at bounding box [783.4615384615383, 372.6923076923077, 824.2307692307692, 456.53846153846155]?",rider,what class is the object at bounding box [7834615384615383 3726923076923077 8242307692307692 45653846153846155]? street light,False
+paligemma,Object Description,night,Sequence_Night_16_frame_840.jpg,What is the color of the car in the image?,darkgray,what is the color of the car in the image? white,False
+paligemma,Object Description,night,Sequence_Night_16_frame_3810.jpg,What is the color of the rider in the image?,dimgray,what is the color of the rider in the image? red,False
+paligemma,Object Description,night,Sequence_Night_12_frame_11790.jpg,"What class is the object at bounding box [353.15850830078125, 362.10662841796875, 462.1928100585938, 555.5070190429688]?",rider,what class is the object at bounding box [35315850830078125 36210662841796875 4621928100585938 5555070190429688]? van,False
+paligemma,Object Description,night,Sequence_Night_17_frame_3450.jpg,What is the color of the car in the image?,darkslategray,what is the color of the car in the image? blue,False
+paligemma,Object Description,night,Sequence_Night_17_frame_540.jpg,"What class is the object at bounding box [622.6565551757812, 297.23780822753906, 799.0460815429688, 514.5879974365234]?",truck,what class is the object at bounding box [6226565551757812 29723780822753906 7990460815429688 5145879974365234]? truck,True
+paligemma,Object Description,night,Sequence_Night_17_frame_1320.jpg,"What class is the object at bounding box [1074.2307692307693, 389.61538461538464, 1175.0, 588.0769230769231]?",motorcycle,what class is the object at bounding box [10742307692307693 38961538461538464 11750 5880769230769231]? object at bounding box [107423,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4920.jpg,"What class is the object at bounding box [527.3076923076923, 441.9230769230769, 602.6923076923076, 485.76923076923083]?",motorcycle,what class is the object at bounding box [5273076923076923 4419230769230769 6026923076923076 48576923076923083]? car,False
+paligemma,Object Description,night,Sequence_Night_8_frame_5100.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? white,False
+paligemma,Object Description,night,Sequence_Night_16_frame_4740.jpg,What is the color of the rider in the image?,rosybrown,what is the color of the rider in the image? red,False
+paligemma,Object Description,night,Sequence_Night_8_frame_4140.jpg,"What class is the object at bounding box [815.185791015625, 385.96441650390625, 907.18896484375, 480.76324462890625]?",motorcycle,what class is the object at bounding box [815185791015625 38596441650390625 90718896484375 48076324462890625]? vehicle,False
+paligemma,Object Description,night,Sequence_Night_17_frame_5700.jpg,What is the color of the motorcycle in the image?,darkslategray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,night,Sequence_Night_8_frame_2340.jpg,What is the color of the car in the image?,palevioletred,what is the color of the car in the image? red,False
+paligemma,Object Description,night,Sequence_Night_12_frame_11880.jpg,"What class is the object at bounding box [289.5852966308594, 352.03021240234375, 447.9638977050781, 462.01171874999994]?",bus,what class is the object at bounding box [2895852966308594 35203021240234375 4479638977050781 46201171874999994]? van,False
+paligemma,Object Description,night,Sequence_Night_8_frame_6990.jpg,What is the color of the person in the image?,lightslategray,what is the color of the person in the image? answering does not require reading text in the image,False
+paligemma,Object Description,night,Sequence_Night_8_frame_3330.jpg,"What class is the object at bounding box [317.3076923076923, 317.3076923076923, 345.0, 350.3846153846154]?",traffic sign,what class is the object at bounding box [3173076923076923 3173076923076923 3450 3503846153846154]? road,False
+paligemma,Object Description,night,Sequence_Night_12_frame_10020.jpg,What is the color of the car in the image?,silver,what is the color of the car in the image? red,False
+paligemma,Object Description,night,Sequence_Night_16_frame_5130.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? the car in the image is white,False
+paligemma,Object Description,night,Sequence_Night_16_frame_3720.jpg,"What class is the object at bounding box [115.0, 277.3076923076923, 350.38461538461536, 505.0]?",truck,what class is the object at bounding box [1150 2773076923076923 35038461538461536 5050]? car,False
+paligemma,Object Description,night,Sequence_Night_16_frame_1050.jpg,"What class is the object at bounding box [487.4903517503004, 376.6779597355769, 565.7692307692307, 436.53846153846155]?",rickshaw,what class is the object at bounding box [4874903517503004 3766779597355769 5657692307692307 43653846153846155]? fire truck,False
+paligemma,Object Description,night,Sequence_Night_12_frame_2670.jpg,"What class is the object at bounding box [309.61538461538464, 419.61538461538464, 391.9230769230769, 500.38461538461536]?",rickshaw,what class is the object at bounding box [30961538461538464 41961538461538464 3919230769230769 50038461538461536]? bus,False
+paligemma,Object Description,night,Sequence_Night_16_frame_2280.jpg,"What class is the object at bounding box [768.2081909179688, 370.66540527343744, 967.7954711914061, 502.04003906250006]?",car,what class is the object at bounding box [7682081909179688 37066540527343744 9677954711914061 50204003906250006]? car,True
+paligemma,Object Description,night,Sequence_Night_16_frame_1050.jpg,What is the color of the rickshaw in the image?,rosybrown,what is the color of the rickshaw in the image? orange,False
+paligemma,Object Description,night,Sequence_Night_17_frame_0.jpg,"What class is the object at bounding box [736.5384615384614, 408.0769230769231, 760.3846153846154, 439.61538461538464]?",animal,what class is the object at bounding box [7365384615384614 4080769230769231 7603846153846154 43961538461538464]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4440.jpg,"What class is the object at bounding box [2.9048814039963915, 292.11317443847656, 323.3315171461839, 554.8033294677734]?",bus,what class is the object at bounding box [29048814039963915 29211317443847656 3233315171461839 5548033294677734]? vehicle,False
+paligemma,Object Description,night,Sequence_Night_17_frame_5400.jpg,"What class is the object at bounding box [1169.0494384765625, 432.23602294921875, 1232.0745849609375, 555.1148071289062]?",person,what class is the object at bounding box [11690494384765625 43223602294921875 12320745849609375 5551148071289062]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_8_frame_4200.jpg,"What class is the object at bounding box [89.19749450683594, 364.706298828125, 212.26353454589844, 431.6416625976562]?",car,what class is the object at bounding box [8919749450683594 364706298828125 21226353454589844 4316416625976562]? object at bounding box [891974,False
+paligemma,Object Description,night,Sequence_Night_16_frame_1740.jpg,What is the color of the headlight in the image?,seashell,what is the color of the headlight in the image? white,False
+paligemma,Object Description,night,Sequence_Night_8_frame_6480.jpg,"What class is the object at bounding box [67.75598144531251, 385.6524200439453, 343.97607421875, 577.2236785888672]?",motorcycle,what class is the object at bounding box [6775598144531251 3856524200439453 34397607421875 5772236785888672]? motorcycle,True
+paligemma,Object Description,night,Sequence_Night_16_frame_5070.jpg,"What class is the object at bounding box [1158.8461538461538, 360.3846153846154, 1183.4615384615386, 408.84615384615387]?",person,what class is the object at bounding box [11588461538461538 3603846153846154 11834615384615386 40884615384615387]? car,False
+paligemma,Object Description,night,Sequence_Night_12_frame_9810.jpg,"What class is the object at bounding box [569.01123046875, 349.96539306640625, 670.092041015625, 456.54931640625006]?",bus,what class is the object at bounding box [56901123046875 34996539306640625 670092041015625 45654931640625006]? car,False
+paligemma,Object Description,night,Sequence_Night_13_frame_1380.jpg,"What class is the object at bounding box [452.6923076923077, 385.7692307692308, 485.7692307692308, 402.6923076923077]?",truck,what class is the object at bounding box [4526923076923077 3857692307692308 4857692307692308 4026923076923077]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_12_frame_1950.jpg,"What class is the object at bounding box [714.2307692307692, 311.1538461538462, 825.7692307692307, 389.61538461538464]?",traffic sign,what class is the object at bounding box [7142307692307692 3111538461538462 8257692307692307 38961538461538464]? car,False
+paligemma,Object Description,night,Sequence_Night_13_frame_1380.jpg,What is the color of the truck in the image?,sienna,what is the color of the truck in the image? white,False
+paligemma,Object Description,night,Sequence_Night_16_frame_810.jpg,"What class is the object at bounding box [185.12195121951223, 352.2764227642276, 329.0243902439025, 637.6422764227642]?",rider,what class is the object at bounding box [18512195121951223 3522764227642276 3290243902439025 6376422764227642]? vehicle,False
+paligemma,Object Description,night,Sequence_Night_8_frame_5220.jpg,"What class is the object at bounding box [668.6609497070312, 357.3912963867187, 836.7837524414062, 446.5441284179687]?",car,what class is the object at bounding box [6686609497070312 3573912963867187 8367837524414062 4465441284179687]? car,True
+paligemma,Object Description,night,Sequence_Night_16_frame_5130.jpg,"What class is the object at bounding box [910.631591796875, 352.6045837402344, 1082.9146728515625, 458.0004577636719]?",car,what class is the object at bounding box [910631591796875 3526045837402344 10829146728515625 4580004577636719]? car,True
+paligemma,Object Description,night,Sequence_Night_17_frame_1170.jpg,"What class is the object at bounding box [1098.7703857421875, 347.61637878417963, 1211.4979248046875, 591.2416534423828]?",person,what class is the object at bounding box [10987703857421875 34761637878417963 12114979248046875 5912416534423828]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_16_frame_1860.jpg,"What class is the object at bounding box [791.1538461538461, 313.46153846153845, 811.1538461538461, 338.0769230769231]?",traffic sign,what class is the object at bounding box [7911538461538461 31346153846153845 8111538461538461 3380769230769231]? car,False
+paligemma,Object Description,night,Sequence_Night_12_frame_8670.jpg,What is the color of the traffic light in the image?,cadetblue,what is the color of the traffic light in the image? green,False
+paligemma,Object Description,night,Sequence_Night_17_frame_6330.jpg,What is the color of the rider in the image?,darkslategray,what is the color of the rider in the image? red,False
+paligemma,Object Description,night,Sequence_Night_16_frame_2880.jpg,What is the color of the motorcycle in the image?,silver,what is the color of the motorcycle in the image? the motorcycle in the image is black,False
+paligemma,Object Description,night,Sequence_Night_17_frame_30.jpg,"What class is the object at bounding box [718.076923076923, 403.46153846153845, 753.4615384615383, 445.7692307692308]?",animal,what class is the object at bounding box [718076923076923 40346153846153845 7534615384615383 4457692307692308]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_12_frame_3270.jpg,"What class is the object at bounding box [1035.0, 266.53846153846155, 1238.8461538461538, 401.1538461538462]?",truck,what class is the object at bounding box [10350 26653846153846155 12388461538461538 4011538461538462]? vehicle,False
+paligemma,Object Description,night,Sequence_Night_12_frame_9810.jpg,What is the color of the bus in the image?,silver,what is the color of the bus in the image? white,False
+paligemma,Object Description,night,Sequence_Night_12_frame_2340.jpg,What is the color of the truck in the image?,darkslategray,what is the color of the truck in the image? the truck in the image is white with black stripes,False
+paligemma,Object Description,night,Sequence_Night_8_frame_5310.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? white,False
+paligemma,Object Description,night,Sequence_Night_8_frame_6870.jpg,"What class is the object at bounding box [145.0, 285.7692307692308, 188.84615384615384, 373.46153846153845]?",person,what class is the object at bounding box [1450 2857692307692308 18884615384615384 37346153846153845]? motorcycle,False
+paligemma,Object Description,night,Sequence_Night_16_frame_4980.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? white,False
+paligemma,Object Description,night,Sequence_Night_17_frame_1290.jpg,"What class is the object at bounding box [999.6153846153845, 418.0769230769231, 1068.8461538461538, 507.30769230769226]?",headlight,what class is the object at bounding box [9996153846153845 4180769230769231 10688461538461538 50730769230769226]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_17_frame_1350.jpg,"What class is the object at bounding box [590.1293334960938, 356.0172729492188, 740.1389770507812, 460.45025634765625]?",car,what class is the object at bounding box [5901293334960938 3560172729492188 7401389770507812 46045025634765625]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_12_frame_1860.jpg,What is the color of the car in the image?,darkgray,what is the color of the car in the image? white,False
+paligemma,Object Description,night,Sequence_Night_12_frame_2340.jpg,"What class is the object at bounding box [871.9230769230769, 124.23076923076923, 1274.2307692307693, 585.7692307692308]?",truck,what class is the object at bounding box [8719230769230769 12423076923076923 12742307692307693 5857692307692308]? tanker,False
+paligemma,Object Description,night,Sequence_Night_16_frame_1920.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? black,False
+paligemma,Object Description,night,Sequence_Night_17_frame_2460.jpg,What is the color of the headlight in the image?,floralwhite,what is the color of the headlight in the image? white,False
+paligemma,Object Description,night,Sequence_Night_17_frame_6570.jpg,"What class is the object at bounding box [314.32275390625, 400.97497558593756, 373.35986328124994, 538.0363159179688]?",person,what class is the object at bounding box [31432275390625 40097497558593756 37335986328124994 5380363159179688]? street light,False
+paligemma,Object Description,night,Sequence_Night_17_frame_1560.jpg,What is the color of the motorcycle in the image?,dimgray,what is the color of the motorcycle in the image? blue,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4770.jpg,What is the color of the bus in the image?,dimgray,what is the color of the bus in the image? the bus in the image is blue and white,False
+paligemma,Object Description,night,Sequence_Night_17_frame_2040.jpg,"What class is the object at bounding box [895.7692307692307, 510.38461538461536, 1059.6153846153848, 613.4615384615385]?",animal,what class is the object at bounding box [8957692307692307 51038461538461536 10596153846153848 6134615384615385]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4410.jpg,"What class is the object at bounding box [1.174148559570316, 355.4689331054687, 129.3748321533203, 620.43798828125]?",car,what class is the object at bounding box [1174148559570316 3554689331054687 1293748321533203 62043798828125]? car,True
+paligemma,Object Description,night,Sequence_Night_17_frame_150.jpg,"What class is the object at bounding box [773.5430908203125, 381.6798400878907, 809.3045654296875, 408.5572814941406]?",car,what class is the object at bounding box [7735430908203125 3816798400878907 8093045654296875 4085572814941406]? dog,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4290.jpg,"What class is the object at bounding box [33.46153846153846, 404.2307692307692, 81.15384615384615, 508.8461538461538]?",person,what class is the object at bounding box [3346153846153846 4042307692307692 8115384615384615 5088461538461538]? vehicle,False
+paligemma,Object Description,night,Sequence_Night_12_frame_10800.jpg,"What class is the object at bounding box [166.514404296875, 394.04907226562494, 450.5211181640625, 578.5877075195312]?",car,what class is the object at bounding box [166514404296875 39404907226562494 4505211181640625 5785877075195312]? car,True
+paligemma,Object Description,night,Sequence_Night_12_frame_8580.jpg,"What class is the object at bounding box [1168.8461538461538, 436.53846153846155, 1259.6153846153848, 485.76923076923083]?",motorcycle,what class is the object at bounding box [11688461538461538 43653846153846155 12596153846153848 48576923076923083]? vehicle,False
+paligemma,Object Description,night,Sequence_Night_16_frame_1200.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? red,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4080.jpg,"What class is the object at bounding box [298.84615384615387, 344.2307692307692, 339.61538461538464, 398.0769230769231]?",traffic sign,what class is the object at bounding box [29884615384615387 3442307692307692 33961538461538464 3980769230769231]? bus,False
+paligemma,Object Description,night,Sequence_Night_16_frame_3180.jpg,What is the color of the traffic sign in the image?,gray,what is the color of the traffic sign in the image? yellow,False
+paligemma,Object Description,night,Sequence_Night_8_frame_5010.jpg,"What class is the object at bounding box [354.2307692307692, 376.53846153846155, 405.0, 443.46153846153845]?",person,what class is the object at bounding box [3542307692307692 37653846153846155 4050 44346153846153845]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_16_frame_1170.jpg,What is the color of the motorcycle in the image?,darkslategray,what is the color of the motorcycle in the image? black,False
+paligemma,Object Description,night,Sequence_Night_16_frame_3750.jpg,What is the color of the truck in the image?,darkgray,what is the color of the truck in the image? red,False
+paligemma,Object Description,night,Sequence_Night_12_frame_10050.jpg,"What class is the object at bounding box [591.7575073242188, 349.0421142578125, 678.9586791992188, 450.6587524414063]?",bus,what class is the object at bounding box [5917575073242188 3490421142578125 6789586791992188 4506587524414063]? car,False
+paligemma,Object Description,night,Sequence_Night_12_frame_12090.jpg,What is the color of the car in the image?,rosybrown,what is the color of the car in the image? grey,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4530.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? white,False
+paligemma,Object Description,night,Sequence_Night_17_frame_2100.jpg,What is the color of the person in the image?,rosybrown,what is the color of the person in the image? white,False
+paligemma,Object Description,night,Sequence_Night_17_frame_150.jpg,What is the color of the car in the image?,gray,what is the color of the car in the image? the car in the image is black,False
+paligemma,Object Description,night,Sequence_Night_13_frame_1110.jpg,"What class is the object at bounding box [568.1929931640625, 391.16818237304693, 619.2469482421875, 429.6998596191406]?",truck,what class is the object at bounding box [5681929931640625 39116818237304693 6192469482421875 4296998596191406]? car,False
+paligemma,Object Description,night,Sequence_Night_8_frame_3120.jpg,What is the color of the traffic light in the image?,peru,what is the color of the traffic light in the image? yellow,False
+paligemma,Object Description,night,Sequence_Night_17_frame_3900.jpg,"What class is the object at bounding box [212.3360366821289, 392.08253479003906, 275.38545989990234, 547.8317718505859]?",person,what class is the object at bounding box [2123360366821289 39208253479003906 27538545989990234 5478317718505859]? street,False
+paligemma,Object Description,night,Sequence_Night_8_frame_2160.jpg,"What class is the object at bounding box [906.7364501953125, 377.7157897949219, 957.0295410156251, 467.4112243652344]?",rider,what class is the object at bounding box [9067364501953125 3777157897949219 9570295410156251 4674112243652344]? car,False
+paligemma,Object Description,night,Sequence_Night_8_frame_6840.jpg,What is the color of the motorcycle in the image?,darkolivegreen,what is the color of the motorcycle in the image? the motorcycle in the image is blue,False
+paligemma,Object Description,night,Sequence_Night_17_frame_5010.jpg,What is the color of the motorcycle in the image?,dimgray,what is the color of the motorcycle in the image? black,False
+paligemma,Object Description,night,Sequence_Night_17_frame_3660.jpg,What is the color of the person in the image?,lightgray,what is the color of the person in the image? white,False
+paligemma,Object Description,night,Sequence_Night_16_frame_4950.jpg,"What class is the object at bounding box [1148.076923076923, 387.3076923076923, 1178.076923076923, 425.7692307692308]?",motorcycle,what class is the object at bounding box [1148076923076923 3873076923076923 1178076923076923 4257692307692308]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_17_frame_5040.jpg,What is the color of the person in the image?,darkslategray,what is the color of the person in the image? white,False
+paligemma,Object Description,night,Sequence_Night_8_frame_4530.jpg,"What class is the object at bounding box [193.18011474609375, 373.8878784179687, 404.19580078124994, 516.8607788085938]?",car,what class is the object at bounding box [19318011474609375 3738878784179687 40419580078124994 5168607788085938]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4050.jpg,"What class is the object at bounding box [875.7692307692307, 373.46153846153845, 973.4615384615383, 445.0]?",truck,what class is the object at bounding box [8757692307692307 37346153846153845 9734615384615383 4450]? vehicle,False
+paligemma,Object Description,night,Sequence_Night_8_frame_5130.jpg,"What class is the object at bounding box [354.675308227539, 372.52838134765625, 515.7674407958984, 449.49145507812506]?",car,what class is the object at bounding box [354675308227539 37252838134765625 5157674407958984 44949145507812506]? unanswerable,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4380.jpg,What is the color of the motorcycle in the image?,dimgray,what is the color of the motorcycle in the image? red,False
+paligemma,Object Description,night,Sequence_Night_17_frame_3450.jpg,"What class is the object at bounding box [963.384521484375, 366.3345794677734, 1278.21923828125, 596.3420562744141]?",car,what class is the object at bounding box [963384521484375 3663345794677734 127821923828125 5963420562744141]? vehicle,False
+paligemma,Object Description,night,Sequence_Night_13_frame_30.jpg,"What class is the object at bounding box [425.0, 416.53846153846155, 444.2307692307692, 437.3076923076923]?",motorcycle,what class is the object at bounding box [4250 41653846153846155 4442307692307692 4373076923076923]? truck,False
+paligemma,Object Description,night,Sequence_Night_16_frame_2580.jpg,What is the color of the headlight in the image?,snow,what is the color of the headlight in the image? white,False
+paligemma,Object Description,night,Sequence_Night_17_frame_4710.jpg,"What class is the object at bounding box [812.6923076923076, 441.1538461538462, 894.9999999999999, 484.2307692307693]?",motorcycle,what class is the object at bounding box [8126923076923076 4411538461538462 8949999999999999 4842307692307693]? car,False
+paligemma,Object Description,night,Sequence_Night_12_frame_11910.jpg,What is the color of the car in the image?,dimgray,what is the color of the car in the image? the car in the image is white,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_11310.jpg,What time of day is it?,night,what time of day is it? afternoon,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_4830.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_8940.jpg,What time of day is it?,day,what time of day is it? morning,True
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_6120.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_180.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_7650.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_9_frame_3330.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_13980.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_10800.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_660.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_12330.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_14_frame_1680.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_12000.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_9_frame_5490.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_4740.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_3270.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_9_frame_1200.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_2520.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_10350.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_11_frame_3180.jpg,What time of day is it?,day,what time of day is it? evening,True
+paligemma,Surrounding Description,day,Sequence_Day_14_frame_4920.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_11_frame_2970.jpg,What time of day is it?,day,what time of day is it? evening,True
+paligemma,Surrounding Description,day,Sequence_Day_9_frame_3360.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_3900.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_15_frame_300.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_8_frame_1320.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_14040.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_10050.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_4230.jpg,What time of day is it?,day,what time of day is it? morning,True
+paligemma,Surrounding Description,day,Sequence_Day_14_frame_120.jpg,What time of day is it?,day,what time of day is it? evening,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_8250.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_8_frame_1470.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_3510.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_9_frame_2730.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_13380.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_2910.jpg,What time of day is it?,dusk/dawn,what time of day is it? afternoon,False
+paligemma,Surrounding Description,day,Sequence_Day_14_frame_180.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_12570.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_30.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_11_frame_60.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_6960.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_7440.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_2160.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_15_frame_4770.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_2850.jpg,What time of day is it?,day,what time of day is it? evening,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_9600.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_2580.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_8_frame_1650.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_2100.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_2760.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_2610.jpg,What time of day is it?,day,what time of day is it? morning,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_4770.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_2670.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_3570.jpg,What time of day is it?,day,what time of day is it? morning,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_10470.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_11_frame_570.jpg,What time of day is it?,day,what time of day is it? evening,True
+paligemma,Surrounding Description,day,Sequence_Day_15_frame_1230.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_3270.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_6960.jpg,What time of day is it?,day,what time of day is it? evening,True
+paligemma,Surrounding Description,day,Sequence_Day_15_frame_2670.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_7110.jpg,What is the traffic density?,Low,what is the traffic density? 2,False
+paligemma,Surrounding Description,day,Sequence_Day_14_frame_2910.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_2850.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_4260.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_330.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_14340.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_4320.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_2280.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_2850.jpg,What time of day is it?,day,what time of day is it? morning,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_3720.jpg,What time of day is it?,dusk/dawn,what time of day is it? afternoon,False
+paligemma,Surrounding Description,day,Sequence_Day_9_frame_2010.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_3180.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_6720.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_13020.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_8280.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,day,Sequence_Day_14_frame_3510.jpg,What time of day is it?,day,what time of day is it? morning,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_120.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_9_frame_4980.jpg,What time of day is it?,day,what time of day is it? morning,True
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_8100.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_9120.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_8310.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_14700.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_8_frame_720.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_9_frame_660.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_180.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_600.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_11_frame_270.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_12420.jpg,What is the traffic density?,Low,what is the traffic density? 1,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_8370.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,day,Sequence_Day_17_frame_3120.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_7200.jpg,What is the traffic density?,Low,what is the traffic density? 2 cars,False
+paligemma,Surrounding Description,day,Sequence_Day_14_frame_5220.jpg,What time of day is it?,day,what time of day is it? evening,True
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_7020.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_9_frame_2100.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_7080.jpg,What is the traffic density?,Low,what is the traffic density? 2 cars,False
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_2340.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_13_frame_5610.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_12900.jpg,What time of day is it?,day,what time of day is it? afternoon,True
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_11040.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,day,Sequence_Day_18_frame_7380.jpg,What is the traffic density?,Low,what is the traffic density? 2,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_1080.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4920.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4290.jpg,What time of day is it?,day,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_9780.jpg,What is the traffic density?,Moderate,what is the traffic density? heavy,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_6930.jpg,What is the traffic density?,High,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_3300.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_8310.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_3990.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_840.jpg,What time of day is it?,day,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_3810.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_11790.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_3450.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_540.jpg,What is the traffic density?,Moderate,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_1320.jpg,What is the traffic density?,Moderate,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4920.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_5100.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_4740.jpg,What time of day is it?,night,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_4140.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_5700.jpg,What time of day is it?,day,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_2340.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_11880.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_6990.jpg,What time of day is it?,night,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_3330.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_10020.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_5130.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_3720.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_1050.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_2670.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_2280.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_1050.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_0.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4440.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_5400.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_4200.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_1740.jpg,What time of day is it?,day,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_6480.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_5070.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_9810.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_13_frame_1380.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_1950.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_13_frame_1380.jpg,What time of day is it?,night,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_810.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_5220.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_5130.jpg,What is the traffic density?,Moderate,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_1170.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_1860.jpg,What is the traffic density?,Low,what is the traffic density? 1 car,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_8670.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_6330.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_2880.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_30.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_3270.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_9810.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_2340.jpg,What time of day is it?,night,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_5310.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_6870.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_4980.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_1290.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_1350.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_1860.jpg,What time of day is it?,night,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_2340.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_1920.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_2460.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_6570.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_1560.jpg,What time of day is it?,night,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4770.jpg,What time of day is it?,day,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_2040.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4410.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_150.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4290.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_10800.jpg,What is the traffic density?,Moderate,what is the traffic density? heavy,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_8580.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_1200.jpg,What time of day is it?,day,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4080.jpg,What is the traffic density?,High,what is the traffic density? heavy,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_3180.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_5010.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_1170.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_3750.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_10050.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_12090.jpg,What time of day is it?,night,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4530.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_2100.jpg,What time of day is it?,day,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_150.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_13_frame_1110.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_3120.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_3900.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_2160.jpg,What is the traffic density?,Low,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_6840.jpg,What time of day is it?,night,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_5010.jpg,What time of day is it?,night,what time of day is it? night,True
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_3660.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_4950.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_5040.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_4530.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4050.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_8_frame_5130.jpg,What is the traffic density?,Low,what is the traffic density? 0,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4380.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_3450.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_13_frame_30.jpg,What is the traffic density?,Moderate,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_16_frame_2580.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False
+paligemma,Surrounding Description,night,Sequence_Night_17_frame_4710.jpg,What is the traffic density?,High,what is the traffic density? light,False
+paligemma,Surrounding Description,night,Sequence_Night_12_frame_11910.jpg,What time of day is it?,dusk/dawn,what time of day is it? night,False

@@ -1,0 +1,13 @@
+model,category,day,night
+LLaVA,Object Counting,67.0,74.0
+LLaVA,Object Description,19.0,17.0
+LLaVA,Surrounding Description,56.0,24.0
+PaliGemma,Object Counting,74.0,74.0
+PaliGemma,Object Description,11.0,9.0
+PaliGemma,Surrounding Description,56.0,16.0
+Phi-3,Object Counting,65.0,71.0
+Phi-3,Object Description,13.0,13.0
+Phi-3,Surrounding Description,76.0,37.0
+Qwen2-VL,Object Counting,71.0,70.0
+Qwen2-VL,Object Description,20.0,16.0
+Qwen2-VL,Surrounding Description,77.0,42.0
