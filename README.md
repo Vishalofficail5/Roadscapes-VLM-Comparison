@@ -48,7 +48,32 @@ Overall model ranking based on average accuracy:
 ## Repository Structure
 - `notebooks/` — experiment notebooks
 - `results/` — CSV outputs and final charts
+- `backend/` — FastAPI demo server and question data
+- `frontend/` — browser demo for image upload and four-model comparison
 - `README.md` — project overview
+
+## Demo Web App
+Run the local demo from the backend folder:
+
+```bash
+cd backend
+uv run uvicorn main:app --host 127.0.0.1 --port 8000 --reload
+```
+
+Then open:
+
+```text
+http://127.0.0.1:8000
+```
+
+The demo loads questions from `backend/questions.csv`, builds the project prompt format, accepts a dropped road image, and shows side-by-side outputs for:
+
+- `microsoft/Phi-3.5-vision-instruct`
+- `Qwen/Qwen2-VL-2B-Instruct`
+- `google/paligemma-3b-mix-224`
+- `llava-hf/llava-1.5-7b-hf`
+
+Current behavior is deterministic demo inference so the app is immediately usable without downloading large model weights. Replace the mock answer function in `backend/main.py` with local or hosted model calls when you are ready to run live VLM inference.
 
 ## Tools and Libraries
 - Python

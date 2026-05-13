@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Roadscapes VLM Demo</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Roadscapes VLM Comparison</p>
+        <h1>Drop a road image and compare four vision-language models.</h1>
+      </div>
+      <div class="status-pill" id="modeStatus">Loading</div>
+    </header>
+
+    <main class="shell">
+      <section class="workspace">
+        <div class="drop-panel">
+          <label class="drop-zone" id="dropZone" for="imageInput">
+            <input id="imageInput" type="file" accept="image/*" />
+            <span class="drop-icon">+</span>
+            <strong>Drop image here</strong>
+            <small>or click to choose a road-scene frame</small>
+          </label>
+
+          <div class="preview-wrap" id="previewWrap" hidden>
+            <img id="previewImage" alt="Uploaded road scene preview" />
+            <div>
+              <strong id="fileName">No image selected</strong>
+              <span id="fileMeta"></span>
+            </div>
+          </div>
+        </div>
+
+        <form class="controls" id="analysisForm">
+          <div class="field-row">
+            <label>
+              Lighting
+              <select id="lightSelect">
+                <option value="day">Day</option>
+                <option value="night">Night</option>
+              </select>
+            </label>
+            <label>
+              Category
+              <select id="categorySelect"></select>
+            </label>
+          </div>
+
+          <label>
+            Question
+            <select id="questionSelect"></select>
+          </label>
+
+          <label>
+            Custom question
+            <textarea id="questionText" rows="3"></textarea>
+          </label>
+
+          <button type="submit" id="runButton">
+            <span>Run all models</span>
+          </button>
+        </form>
+      </section>
+
+      <section class="results-strip" aria-live="polite">
+        <div class="section-heading">
+          <p class="eyebrow">Model outputs</p>
+          <h2>Four answers, one prompt</h2>
+        </div>
+        <div class="model-grid" id="modelGrid"></div>
+      </section>
+
+      <section class="inspector">
+        <div>
+          <div class="section-heading">
+            <p class="eyebrow">Prompt</p>
+            <h2>Generated instruction</h2>
+          </div>
+          <pre id="promptBox">Choose an image and question to generate the model prompt.</pre>
+        </div>
+
+        <div>
+          <div class="section-heading">
+            <p class="eyebrow">Benchmark</p>
+            <h2>Day vs night accuracy</h2>
+          </div>
+          <img
+            class="benchmark-image"
+            src="/results/Photos(Results)/day_vs_night_overall_all_4_models.png"
+            alt="Day versus night benchmark chart for all four models"
+          />
+        </div>
+      </section>
+    </main>
+
+    <script src="/script.js"></script>
+  </body>
+</html>
