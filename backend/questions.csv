@@ -1,0 +1,72 @@
+filename,category,question,answer
+Sequence_Day_1_frame_0.jpg,Object Counting,How many objects of type traffic sign are in the image?,1
+Sequence_Day_1_frame_0.jpg,Object Counting,Is there a traffic sign present in the image?,Yes
+Sequence_Day_1_frame_0.jpg,Object Counting,Are there more traffic sign's than traffic sign's?,No
+Sequence_Day_1_frame_0.jpg,Object Localization,Where is the truck present in the image?,"[x1=760, y1=143, x2=950, y2=310], [x1=504, y1=128, x2=682, y2=328]"
+Sequence_Day_1_frame_0.jpg,Object Description,What is the color of the truck in the image?,gray
+Sequence_Day_1_frame_0.jpg,Object Description,"What class is the object at bounding box [759.904296875, 142.546875, 950.01708984375, 309.96087646484375]?",truck
+Sequence_Day_1_frame_0.jpg,Surrounding Description,What time of day is it?,day
+Sequence_Day_1_frame_0.jpg,Surrounding Description,What is the traffic density?,Moderate
+Sequence_Day_1_frame_0.jpg,Spatial Relationship,"What is the spatial relationship between truck (bbox: [759.904296875, 142.546875, 950.01708984375, 309.96087646484375]) and traffic sign (bbox: [1048.60595703125, 116.14315795898438, 1091.83740234375, 156.39657592773438])?",truck is right of traffic sign
+Sequence_Day_1_frame_990.jpg,Object Counting,How many objects of type car are in the image?,3
+Sequence_Day_1_frame_990.jpg,Object Counting,Is there a car present in the image?,Yes
+Sequence_Day_1_frame_990.jpg,Object Counting,Are there more car's than car's?,No
+Sequence_Day_1_frame_990.jpg,Object Localization,Where is the truck present in the image?,"[x1=434, y1=12, x2=770, y2=395], [x1=1012, y1=253, x2=1050, y2=273], [x1=1095, y1=239, x2=1170, y2=273]"
+Sequence_Day_1_frame_990.jpg,Object Description,What is the color of the car in the image?,dimgray
+Sequence_Day_1_frame_990.jpg,Object Description,"What class is the object at bounding box [0.0, 241.624267578125, 89.48505401611328, 314.35595703125]?",car
+Sequence_Day_1_frame_990.jpg,Surrounding Description,What time of day is it?,day
+Sequence_Day_1_frame_990.jpg,Surrounding Description,What is the traffic density?,High
+Sequence_Day_1_frame_990.jpg,Spatial Relationship,"What is the spatial relationship between car (bbox: [142.80145263671875, 238.81875610351562, 345.4051513671875, 313.7133483886719]) and truck (bbox: [1095.357142857143, 238.77551020408163, 1170.3571428571431, 273.46938775510205])?",car is right of truck
+Sequence_Day_13_frame_2250.jpg,Object Counting,How many objects of type rider are in the image?,3
+Sequence_Day_13_frame_2250.jpg,Object Counting,Is there a rider present in the image?,Yes
+Sequence_Day_13_frame_2250.jpg,Object Counting,Are there more rider's than traffic light's?,No
+Sequence_Day_13_frame_2250.jpg,Object Localization,Where is the rider present in the image?,"[x1=528, y1=296, x2=700, y2=540], [x1=799, y1=293, x2=919, y2=530], [x1=956, y1=260, x2=1247, y2=678]"
+Sequence_Day_13_frame_2250.jpg,Object Description,What is the color of the traffic light in the image?,gray
+Sequence_Day_13_frame_2250.jpg,Object Description,"What class is the object at bounding box [152.59426879882812, 245.050048828125, 170.11395263671875, 285.83056640625]?",traffic light
+Sequence_Day_13_frame_2250.jpg,Surrounding Description,What time of day is it?,day
+Sequence_Day_13_frame_2250.jpg,Surrounding Description,What is the traffic density?,High
+Sequence_Day_13_frame_2250.jpg,Spatial Relationship,"What is the spatial relationship between motorcycle (bbox: [797.6690673828125, 412.18354797363287, 930.3912353515625, 616.8696746826172]) and traffic light (bbox: [774.2307692307692, 173.46153846153845, 800.3846153846154, 271.92307692307696])?",motorcycle is ahead traffic light
+Sequence_Day_13_frame_8820.jpg,Object Counting,How many objects of type car are in the image?,5
+Sequence_Day_13_frame_8820.jpg,Object Counting,Is there a car present in the image?,Yes
+Sequence_Day_13_frame_8820.jpg,Object Counting,Are there more car's than motorcycle's?,Yes
+Sequence_Day_13_frame_8820.jpg,Object Localization,Where is the traffic light present in the image?,"[x1=644, y1=187, x2=672, y2=226], [x1=467, y1=246, x2=503, y2=291]"
+Sequence_Day_13_frame_8820.jpg,Object Description,What is the color of the car in the image?,darkslategray
+Sequence_Day_13_frame_8820.jpg,Object Description,"What class is the object at bounding box [113.94848632812497, 347.37261962890625, 612.8611450195312, 713.0836791992188]?",car
+Sequence_Day_13_frame_8820.jpg,Surrounding Description,What time of day is it?,day
+Sequence_Day_13_frame_8820.jpg,Surrounding Description,What is the traffic density?,High
+Sequence_Day_13_frame_8820.jpg,Spatial Relationship,"What is the spatial relationship between car (bbox: [113.94848632812497, 347.37261962890625, 612.8611450195312, 713.0836791992188]) and motorcycle (bbox: [682.6923076923076, 397.3076923076923, 707.3076923076923, 431.9230769230769])?",car is right of motorcycle
+Sequence_Night_12_frame_9810.jpg,Object Counting,How many objects of type car are in the image?,3
+Sequence_Night_12_frame_9810.jpg,Object Counting,Is there a car present in the image?,Yes
+Sequence_Night_12_frame_9810.jpg,Object Counting,Are there more car's than bus's?,Yes
+Sequence_Night_12_frame_9810.jpg,Object Localization,Where is the car present in the image?,"[x1=131, y1=390, x2=392, y2=556], [x1=481, y1=380, x2=533, y2=433], [x1=839, y1=397, x2=917, y2=442]"
+Sequence_Night_12_frame_9810.jpg,Object Description,What is the color of the bus in the image?,silver
+Sequence_Night_12_frame_9810.jpg,Object Description,"What class is the object at bounding box [569.01123046875, 349.96539306640625, 670.092041015625, 456.54931640625006]?",bus
+Sequence_Night_12_frame_9810.jpg,Surrounding Description,What time of day is it?,dusk/dawn
+Sequence_Night_12_frame_9810.jpg,Surrounding Description,What is the traffic density?,Moderate
+Sequence_Night_12_frame_9810.jpg,Spatial Relationship,"What is the spatial relationship between bus (bbox: [569.01123046875, 349.96539306640625, 670.092041015625, 456.54931640625006]) and car (bbox: [838.8461538461538, 396.53846153846155, 917.3076923076923, 441.9230769230769])?",bus is right of car
+Sequence_Night_12_frame_10020.jpg,Object Counting,How many objects of type car are in the image?,3
+Sequence_Night_12_frame_10020.jpg,Object Counting,Is there a car present in the image?,Yes
+Sequence_Night_12_frame_10020.jpg,Object Counting,Are there more car's than car's?,No
+Sequence_Night_12_frame_10020.jpg,Object Localization,Where is the car present in the image?,"[x1=531, y1=401, x2=586, y2=443], [x1=330, y1=393, x2=382, y2=440], [x1=1103, y1=397, x2=1279, y2=494]"
+Sequence_Night_12_frame_10020.jpg,Object Description,What is the color of the car in the image?,silver
+Sequence_Night_12_frame_10020.jpg,Object Description,"What class is the object at bounding box [531.0888061523438, 401.4375915527344, 586.3522338867188, 443.3636779785156]?",car
+Sequence_Night_12_frame_10020.jpg,Surrounding Description,What time of day is it?,dusk/dawn
+Sequence_Night_12_frame_10020.jpg,Surrounding Description,What is the traffic density?,Moderate
+Sequence_Night_12_frame_10020.jpg,Spatial Relationship,"What is the spatial relationship between car (bbox: [1102.6923076923076, 397.3076923076923, 1278.8461538461538, 494.2307692307693]) and truck (bbox: [758.8461538461538, 337.3076923076923, 855.7692307692307, 414.2307692307692])?",car is left of truck
+Sequence_Night_15_frame_7230.jpg,Object Counting,How many objects of type car are in the image?,3
+Sequence_Night_15_frame_7230.jpg,Object Counting,Is there a car present in the image?,Yes
+Sequence_Night_15_frame_7230.jpg,Object Counting,Are there more car's than motorcycle's?,Yes
+Sequence_Night_15_frame_7230.jpg,Object Localization,Where is the motorcycle present in the image?,"[x1=196, y1=401, x2=333, y2=506]"
+Sequence_Night_15_frame_7230.jpg,Object Description,What is the color of the truck in the image?,dimgray
+Sequence_Night_15_frame_7230.jpg,Object Description,"What class is the object at bounding box [794.6511627906978, 15.813953488372118, 1279.0, 506.35255219555694]?",truck
+Sequence_Night_15_frame_7230.jpg,Surrounding Description,What time of day is it?,dusk/dawn
+Sequence_Night_15_frame_7230.jpg,Surrounding Description,What is the traffic density?,High
+Sequence_Night_15_frame_7230.jpg,Spatial Relationship,"What is the spatial relationship between car (bbox: [0.01123046875, 349.238525390625, 245.95205688476562, 720.0]) and truck (bbox: [794.6511627906978, 15.813953488372118, 1279.0, 506.35255219555694])?",car is right of truck
+Sequence_Night_15_frame_10020.jpg,Object Counting,How many objects of type headlight are in the image?,1
+Sequence_Night_15_frame_10020.jpg,Object Counting,Is there a headlight present in the image?,Yes
+Sequence_Night_15_frame_10020.jpg,Object Counting,Are there more headlight's than headlight's?,No
+Sequence_Night_15_frame_10020.jpg,Object Localization,Where is the headlight present in the image?,"[x1=374, y1=367, x2=442, y2=425]"
+Sequence_Night_15_frame_10020.jpg,Object Description,What is the color of the headlight in the image?,antiquewhite
+Sequence_Night_15_frame_10020.jpg,Object Description,"What class is the object at bounding box [374.49612403100775, 366.9767441860465, 441.93798449612405, 425.1162790697675]?",headlight
+Sequence_Night_15_frame_10020.jpg,Surrounding Description,What time of day is it?,dusk/dawn
+Sequence_Night_15_frame_10020.jpg,Surrounding Description,What is the traffic density?,Low
